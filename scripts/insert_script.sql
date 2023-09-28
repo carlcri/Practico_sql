@@ -1,112 +1,3 @@
--- Insertando 100 filas adicionales
-INSERT INTO authors (author_id, name, nationality)
-VALUES 
-    (1, 'Jane Austen', 'ENG'),
-    (2, 'Leo Tolstoy', 'RUS'),
-    (3, 'Gabriel Garcia Marquez', 'COL'),
-    (4, 'Haruki Murakami', 'JPN'),
-    (5, 'Mark Twain', 'USA');
-
-INSERT INTO authors (author_id, name, nationality)
-VALUES 
-    (6, 'Agatha Christie', 'ENG'),
-    (7, 'Fyodor Dostoevsky', 'RUS'),
-    (8, 'Pablo Neruda', 'CHL'),
-    (9, 'Jane Doe', 'USA'),
-    (10, 'John Doe', 'USA'),
-    (11, 'Isabel Allende', 'CHL'),
-    (12, 'Hermann Hesse', 'DEU'),
-    (13, 'Ernest Hemingway', 'USA'),
-    (14, 'Gabrielle Garcia', 'COL'),
-    (15, 'Yasunari Kawabata', 'JPN'),
-    (16, 'Jorge Luis Borges', 'ARG'),
-    (17, 'Edgar Allan Poe', 'USA'),
-    (18, 'Virginia Woolf', 'ENG'),
-    (19, 'George Orwell', 'ENG'),
-    (20, 'Franz Kafka', 'AUT'),
-    (21, 'Marcel Proust', 'FRA'),
-    (22, 'Emily Dickinson', 'USA'),
-    (23, 'Anton Chekhov', 'RUS'),
-    (24, 'Friedrich Nietzsche', 'DEU'),
-    (25, 'Leo Tolstoy', 'RUS'),
-    (26, 'Haruki Murakami', 'JPN'),
-    (27, 'Mark Twain', 'USA'),
-    (28, 'William Shakespeare', 'ENG'),
-    (29, 'Charles Dickens', 'ENG'),
-    (30, 'Homer', 'GRC'),
-    (31, 'Miguel de Cervantes', 'ESP'),
-    (32, 'H.P. Lovecraft', 'USA'),
-    (33, 'Oscar Wilde', 'IRL'),
-    (34, 'George Eliot', 'ENG'),
-    (35, 'Nathaniel Hawthorne', 'USA'),
-    (36, 'Isaac Asimov', 'USA'),
-    (37, 'J.K. Rowling', 'ENG'),
-    (38, 'J.R.R. Tolkien', 'ENG'),
-    (39, 'H.G. Wells', 'ENG'),
-    (40, 'Ray Bradbury', 'USA'),
-    (41, 'Dante Alighieri', 'ITA'),
-    (42, 'Agnes Heller', 'HUN'),
-    (43, 'Simone de Beauvoir', 'FRA'),
-    (44, 'Plato', 'GRC'),
-    (45, 'Confucius', 'CHN'),
-    (46, 'T.S. Eliot', 'ENG'),
-    (47, 'F. Scott Fitzgerald', 'USA'),
-    (48, 'John Milton', 'ENG'),
-    (49, 'Albert Camus', 'FRA'),
-    (50, 'Sigmund Freud', 'AUT'),
-    (51, 'Ralph Waldo Emerson', 'USA'),
-    (52, 'Maya Angelou', 'USA'),
-    (53, 'Pablo Picasso', 'ESP'),
-    (54, 'Vincent van Gogh', 'NLD'),
-    (55, 'Michelangelo', 'ITA'),
-    (56, 'Leonardo da Vinci', 'ITA'),
-    (57, 'Emily Brontë', 'ENG'),
-    (58, 'Charlotte Brontë', 'ENG'),
-    (59, 'Anne Frank', 'NLD'),
-    (60, 'Albert Einstein', 'DEU'),
-    (61, 'Niels Bohr', 'DNK'),
-    (62, 'Marie Curie', 'POL'),
-    (63, 'Isaac Newton', 'ENG'),
-    (64, 'Galileo Galilei', 'ITA'),
-    (65, 'Charles Darwin', 'ENG'),
-    (66, 'Louis Pasteur', 'FRA'),
-    (67, 'Alan Turing', 'ENG'),
-    (68, 'Ada Lovelace', 'ENG'),
-    (69, 'Nikola Tesla', 'SRB'),
-    (70, 'Thomas Edison', 'USA'),
-    (71, 'Alexander Graham Bell', 'SCO'),
-    (72, 'Wolfgang Amadeus Mozart', 'AUT'),
-    (73, 'Ludwig van Beethoven', 'DEU'),
-    (74, 'Johann Sebastian Bach', 'DEU'),
-    (75, 'Frederic Chopin', 'POL'),
-    (76, 'Igor Stravinsky', 'RUS'),
-    (77, 'Claude Debussy', 'FRA'),
-    (78, 'Antonio Vivaldi', 'ITA'),
-    (79, 'Georges Bizet', 'FRA'),
-    (80, 'Walt Disney', 'USA'),
-    (81, 'Charlie Chaplin', 'ENG'),
-    (82, 'Alfred Hitchcock', 'ENG'),
-    (83, 'Steven Spielberg', 'USA'),
-    (84, 'Francis Ford Coppola', 'USA'),
-    (85, 'George Lucas', 'USA'),
-    (86, 'Stanley Kubrick', 'USA'),
-    (87, 'Quentin Tarantino', 'USA'),
-    (88, 'Martin Scorsese', 'USA'),
-    (89, 'Akira Kurosawa', 'JPN'),
-    (90, 'Hayao Miyazaki', 'JPN'),
-    (91, 'Federico Fellini', 'ITA'),
-    (92, 'Ingmar Bergman', 'SWE'),
-    (93, 'Pedro Almodóvar', 'ESP'),
-    (94, 'Yasujiro Ozu', 'JPN'),
-    (95, 'Fritz Lang', 'AUT'),
-    (96, 'Jean Renoir', 'FRA'),
-    (97, 'Billy Wilder', 'AUT'),
-    (98, 'John Ford', 'USA'),
-    (99, 'Orson Welles', 'USA'),
-    (100, 'Aki Kaurismäki', 'FIN');
-
-
-
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('1', '8', 'Under the Volcano', '1943', 'Ha', '40', '0', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('2', '79', 'Ladies in Retirement', '1899', 'Pa', '42', '0', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('3', '21', 'Paris Belongs to Us (Paris nous appartient)', '2003', 'Da', '47', '1', '2');
@@ -157,7 +48,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('48', '50', 'Park Is Mine, The', '1940', 'In', '44', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('49', '65', 'Mr. Blandings Builds His Dream House', '1838', 'Ts', '38', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('50', '61', 'Babar The Movie', '1844', 'Fr', '50', '0', '3');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('51', '39', 'Tyler Perrys Madeas Big Happy Family', '1999', 'Dh', '45', '0', '1');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('51', '39', 'Tyler Perry's Madea's Big Happy Family', '1999', 'Dh', '45', '0', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('52', '87', 'Innerspace', '1967', 'No', '27', '0', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('53', '56', 'Brother from Another Planet, The', '1857', 'Ge', '29', '0', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('54', '1', 'Comfort of Strangers, The', '2003', 'No', '40', '1', '4');
@@ -197,7 +88,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('88', '31', 'Light Years (Gandahar)', '1821', 'Fi', '20', '0', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('89', '37', 'Fool for Love', '1907', 'Or', '22', '0', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('90', '74', 'Forced to Kill', '1912', 'Ay', '25', '0', '4');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('91', '50', 'William Shakespeares A Midsummer Nights Dream', '2009', 'Ta', '27', '1', '4');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('91', '50', 'William Shakespeare's A Midsummer Night's Dream', '2009', 'Ta', '27', '1', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('92', '30', 'Pixar Story, The', '1869', 'Ne', '31', '1', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('93', '23', 'Visioneers', '1964', 'Ko', '47', '0', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('94', '46', 'Cocaine Cowboys II: Hustlin With the Godmother', '1855', 'As', '29', '0', '2');
@@ -215,7 +106,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('106', '8', 'Final Destination', '1994', 'Fi', '49', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('107', '63', 'Hellraiser: Revelations', '1915', 'It', '42', '0', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('108', '90', 'National Security', '1906', 'Ts', '26', '1', '2');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('109', '39', 'Lascars', '1841', 'Ma', '34', '1', '3');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('109', '39', 'Lascars', '1841', 'Mā', '34', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('110', '83', 'Bullfighter, The (Matador)', '1858', 'Hu', '40', '1', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('111', '97', 'Manslaughter (Drabet)', '2014', 'Ts', '14', '0', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('112', '50', 'Three Stars', '1831', 'Hu', '30', '0', '4');
@@ -281,7 +172,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('172', '100', 'Category 7: The End of the World', '1940', 'La', '47', '1', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('173', '100', 'Roman Polanski: Wanted and Desired', '1826', 'En', '21', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('174', '88', 'Night of Dark Shadows', '1965', 'Bo', '16', '0', '4');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('175', '49', 'Tumbleweeds', '1886', 'Ma', '38', '1', '2');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('175', '49', 'Tumbleweeds', '1886', 'Mā', '38', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('176', '91', 'Invisible Circus, The', '1949', 'As', '46', '1', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('177', '9', 'Mouse on the Moon, The', '1835', 'Ne', '19', '0', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('178', '29', 'Stalag Luft', '1840', 'Fi', '36', '1', '4');
@@ -351,7 +242,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('242', '32', 'Concert for George, The', '2016', 'Ka', '19', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('243', '36', 'Blind Shaft (Mang jing)', '1928', 'Ko', '47', '1', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('244', '24', 'Babys Day Out', '1855', 'Sp', '17', '1', '1');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('245', '5', 'Conspirators of Pleasure (Spiklenci slasti)', '1928', 'Ma', '47', '1', '1');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('245', '5', 'Conspirators of Pleasure (Spiklenci slasti)', '1928', 'Mā', '47', '1', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('246', '100', 'They Died with Their Boots On', '1825', 'Bi', '22', '1', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('247', '68', 'Im Here', '1931', 'Pu', '13', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('248', '16', 'Michael Collins', '1897', 'So', '38', '1', '4');
@@ -372,7 +263,7 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('263', '9', 'Before the Rains', '1996', 'Pe', '49', '0', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('264', '16', 'Akira Kurosawas Dreams (Dreams)', '1827', 'Ma', '32', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('265', '70', 'Keep the River on Your Right: A Modern Cannibal Tale', '1890', 'Cz', '23', '1', '4');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('266', '24', 'Beware the Moon: Remembering An American Werewolf in London', '1864', 'Nd', '16', '0', '4');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('266', '24', 'Beware the Moon: Remembering 'An American Werewolf in London'', '1864', 'Nd', '16', '0', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('267', '57', 'Torpedo Bombers (Torpedonostsy)', '1940', 'Bo', '27', '1', '3');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('268', '37', '2012: Supernova', '1886', 'Ka', '27', '0', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('269', '4', 'Eden Lake', '1820', 'Be', '21', '1', '2');
@@ -380,8 +271,8 @@ INSERT INTO books (book_id, author_id, title, year, language, price, sellable, c
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('271', '45', 'Twogether', '1867', 'Ma', '15', '0', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('272', '41', 'Angels and Insects', '1921', 'Qu', '43', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('273', '39', 'South, The (Lomalla)', '1844', 'Az', '20', '0', '4');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('274', '88', 'The French Kissers', '1909', 'Ma', '45', '1', '4');
-INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('275', '96', 'Boy Called Hate, A', '1926', 'Ma', '35', '1', '1');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('274', '88', 'The French Kissers', '1909', 'Mā', '45', '1', '4');
+INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('275', '96', 'Boy Called Hate, A', '1926', 'Mā', '35', '1', '1');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('276', '38', 'Blue Vinyl', '1918', 'Al', '36', '1', '2');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('277', '4', 'The Last Five Years', '1966', 'Sw', '22', '0', '4');
 INSERT INTO books (book_id, author_id, title, year, language, price, sellable, copies) VALUES ('278', '44', 'IMAX: Coral Reef Adventure', '1941', 'Yi', '20', '0', '1');

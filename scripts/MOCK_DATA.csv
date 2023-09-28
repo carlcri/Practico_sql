@@ -1,0 +1,301 @@
+book_id,author_id,title,year,language,price,sellable,copies
+1,8,Under the Volcano,1943,Ha,40,0,4
+2,79,Ladies in Retirement,1899,Pa,42,0,3
+3,21,Paris Belongs to Us (Paris nous appartient),2003,Da,47,1,2
+4,34,Crackerjack,1954,So,22,0,4
+5,79,Love Before Breakfast,1901,Az,12,0,1
+6,71,Immortel (ad vitam) (Immortal),1930,Gu,13,1,2
+7,22,Song of the Little Road (Pather Panchali),1990,Ka,43,1,3
+8,78,"Cookout, The",1806,Ic,46,0,2
+9,97,Porky's Revenge,1975,Ky,27,1,2
+10,32,Are You Listening?,1983,Ge,27,0,3
+11,58,Cocaine Cowboys,1905,Ge,45,0,1
+12,97,Santa Claus,1900,Ge,27,0,1
+13,57,Why Me?,1867,Ar,17,0,4
+14,24,Hostel: Part II,1914,Ha,14,0,2
+15,22,Judex,1933,Qu,15,1,1
+16,76,"Science of Sleep, The (La science des rêves)",1862,It,25,0,4
+17,78,Law and Order,1803,Hi,32,1,2
+18,54,Sun Alley (Sonnenallee),1817,Dh,34,0,3
+19,92,Susan Lenox (Her Fall and Rise),2014,Fi,36,1,1
+20,82,What Matters Most,1955,Po,43,0,4
+21,75,Wicked Blood,1912,Ma,15,0,2
+22,18,"Macbeth (a.k.a. Tragedy of Macbeth, The)",1939,Lu,33,0,3
+23,96,What the Day Owes the Night,1912,Po,35,1,1
+24,33,Codebreaker,1991,Ge,43,0,4
+25,2,"Education, An",1877,Al,23,0,3
+26,26,Terror in a Texas Town,1949,Ir,42,1,1
+27,13,Raising Cain,1829,Ta,34,0,1
+28,67,"Hunt, The (Caza, La)",1941,Hu,16,1,2
+29,66,Promised Land,1844,Sw,35,1,2
+30,11,Slaves of New York,1843,Ge,42,0,2
+31,25,Portrait in Black,1992,Yi,31,1,2
+32,63,"Vodka, Mr. Palmu (Vodkaa, komisario Palmu)",1859,Af,38,0,3
+33,46,Butch Cassidy and the Sundance Kid,1908,Af,16,0,1
+34,2,Darkon,1827,Pa,21,1,3
+35,80,Kicking and Screaming,1972,Ar,18,0,3
+36,75,Jade,1820,Ro,46,1,1
+37,51,"24th Day, The",1951,Li,27,1,2
+38,44,Wicked,1835,Te,23,1,4
+39,14,Graveyard of Honor (Shin jingi no hakaba),2013,Ma,26,0,4
+40,16,Giuseppe Makes a Movie,2020,Sp,33,1,4
+41,67,Revenge of the Zombies,1881,Sw,28,1,2
+42,1,Buud Yam,2011,No,34,0,1
+43,74,Three Degrees Colder (3° kälter),1849,Sw,41,0,4
+44,2,Chain Lightning,1888,Ma,50,0,4
+45,23,"Rack, The",1856,Bo,24,0,1
+46,80,"Man Who Sued God, The",1891,Th,44,0,2
+47,79,"Wise Kids, The",1880,Mo,20,0,3
+48,50,"Park Is Mine, The",1940,In,44,1,3
+49,65,Mr. Blandings Builds His Dream House,1838,Ts,38,1,2
+50,61,Babar The Movie,1844,Fr,50,0,3
+51,39,Tyler Perry's Madea's Big Happy Family,1999,Dh,45,0,1
+52,87,Innerspace,1967,No,27,0,1
+53,56,"Brother from Another Planet, The",1857,Ge,29,0,1
+54,1,"Comfort of Strangers, The",2003,No,40,1,4
+55,34,Hunger (Sult),1979,Be,48,0,3
+56,19,Bubble Boy,1825,Pe,45,1,4
+57,36,Until Death,1932,Ts,30,0,3
+58,40,Breaking the Rules,1958,Po,34,0,3
+59,2,Samaritan Girl (Samaria),1864,It,25,0,3
+60,49,Blue,1934,Cz,45,1,1
+61,67,DarkBlueAlmostBlack (Azuloscurocasinegro),1890,Fi,36,0,2
+62,51,Interstate 60,1960,Ch,45,1,1
+63,24,She Had to Say Yes,1850,Dz,49,0,2
+64,88,"Nun, The (La monja) ",1932,We,16,1,4
+65,30,Justice League: Crisis on Two Earths,1917,Lu,42,1,3
+66,14,Small Town Gay Bar,1926,Ay,16,1,4
+67,56,All That Jazz,1876,Fi,23,0,2
+68,65,Showrunners: The Art of Running a TV Show,1888,Ne,19,0,2
+69,81,My Führer,1971,Zu,49,0,3
+70,45,Zathura,1941,Ro,36,0,4
+71,20,Scars of Dracula,1815,Ga,47,1,3
+72,59,"Emergency Escape, The (Wyjscie awaryjne)",1972,Ka,44,1,2
+73,49,Birth,1802,Ts,21,1,4
+74,33,"Violent City (Family, The) (Città violenta)",1873,Gu,36,0,4
+75,91,Paz!,1850,Dh,32,0,4
+76,25,Uncle Buck,1911,In,18,0,3
+77,46,"Fourth State, The (Die vierte Macht)",1909,Te,49,0,4
+78,90,"Love on the Run (Amour en fuite, L')",1907,Fr,50,1,1
+79,53,"Muriel, or The Time of Return (Muriel ou Le temps d'un retour)",1821,Te,44,0,4
+80,3,"Last Exorcism Part II, The",1988,Ar,46,0,3
+81,63,Rock-A-Doodle,1924,Hi,48,1,2
+82,70,Wild Man Blues,1854,In,23,1,3
+83,53,"Wrong Man, The",1820,Te,45,1,2
+84,96,Travels with My Aunt,1819,Gr,46,0,2
+85,64,Contraband,1841,Zu,27,0,2
+86,69,"Puppetmaster, The (Xi meng ren sheng)",1873,Ma,25,1,2
+87,57,Bringing Down the House,1836,Sw,12,0,1
+88,31,Light Years (Gandahar),1821,Fi,20,0,3
+89,37,Fool for Love,1907,Or,22,0,3
+90,74,Forced to Kill,1912,Ay,25,0,4
+91,50,William Shakespeare's A Midsummer Night's Dream,2009,Ta,27,1,4
+92,30,"Pixar Story, The",1869,Ne,31,1,4
+93,23,Visioneers,1964,Ko,47,0,1
+94,46,Cocaine Cowboys II: Hustlin' With the Godmother,1855,As,29,0,2
+95,11,Where the Trail Ends,1861,Gu,50,1,3
+96,11,Risky Business,1958,Ko,30,0,1
+97,72,Of Mice and Men,1861,Te,38,1,2
+98,89,"I Love You, Man",2002,La,39,0,3
+99,90,Phil Spector,1916,Dh,13,0,2
+100,98,Gothika,1827,Ky,31,1,3
+101,53,"River Murders, The",1975,No,16,0,2
+102,55,Children of the Corn V: Fields of Terror,1809,Am,42,1,1
+103,95,"Andromeda Strain, The",1849,Dh,49,0,2
+104,66,Love Object,1949,Dz,36,1,2
+105,26,The Trial of Lee Harvey Oswald,1895,Po,44,0,4
+106,8,Final Destination,1994,Fi,49,1,2
+107,63,Hellraiser: Revelations,1915,It,42,0,4
+108,90,National Security,1906,Ts,26,1,2
+109,39,Lascars,1841,Mā,34,1,3
+110,83,"Bullfighter, The (Matador)",1858,Hu,40,1,1
+111,97,Manslaughter (Drabet),2014,Ts,14,0,3
+112,50,Three Stars,1831,Hu,30,0,4
+113,62,Films to Keep You Awake: The Christmas Tale (Películas para no dormir: Cuento de navidad),1826,Ma,45,0,2
+114,6,Crimson Gold (Talaye sorgh),1803,Sw,36,0,1
+115,96,Love Sick Love,1800,It,49,0,4
+116,2,Like Dandelion Dust,1818,Ma,40,1,3
+117,22,Ride Along,1977,Ma,48,1,1
+118,67,Crackers,2009,Ha,23,1,2
+119,38,Broken Kingdom,1986,Ma,19,0,3
+120,71,Go Now,1969,Sp,27,0,2
+121,40,Black Widow,1955,Ky,32,0,1
+122,100,Megiddo: The Omega Code 2,1939,Qu,28,1,1
+123,40,Gorko!,1886,Ky,44,1,2
+124,36,Raggedy Man,1941,Nd,44,1,1
+125,21,Shadows (Senki),1992,Da,15,0,4
+126,30,Eureka (Yurîka),1916,Da,20,0,3
+127,87,Matilda,2015,Pe,29,1,2
+128,13,"Cantante, El",1823,Ar,43,0,1
+129,43,Trinity and Beyond,1842,Ka,43,1,2
+130,60,Cross My Heart,2014,Pa,50,0,2
+131,79,May 18 (Hwaryeohan hyuga),1923,No,35,0,1
+132,96,Slumber Party Massacre II,1860,La,47,0,2
+133,1,Opera,1822,To,20,1,4
+134,44,"Men Who Tread on the Tiger's Tail, The (Tora no o wo fumu otokotachi)",1884,Ay,44,0,1
+135,93,Tarantella,1884,Mo,29,0,1
+136,4,Nueba Yol,1873,Dh,25,0,4
+137,85,Short Time,1882,So,12,0,4
+138,51,Closed Circuit,1801,Ta,39,1,1
+139,34,Man on the Flying Trapeze,1888,Bi,41,0,4
+140,62,"Decline of Western Civilization, The",1876,As,34,0,4
+141,87,Mars,1921,Ro,39,1,2
+142,58,Every Other Weekend (Un week-end sur deux),1991,Mo,13,1,1
+143,48,"Drive, He Said",1961,Be,47,0,2
+144,86,What a Girl Wants,1879,Ma,27,0,2
+145,17,Soccer Days,1970,Zu,45,1,3
+146,41,Card Subject To Change,1937,Cz,23,1,1
+147,87,"Where Angels Go, Trouble Follows",1845,Dh,14,1,4
+148,54,Grey Gardens,1851,Ar,29,1,3
+149,26,Evocateur: The Morton Downey Jr. Movie,1904,Ic,50,1,2
+150,84,Seed,1819,Pa,18,1,2
+151,55,Kagemusha,2006,Es,28,0,1
+152,55,Nicky's Family,1847,Gu,49,1,2
+153,27,Reckless,1802,Te,12,0,3
+154,10,"Enemy of the People, An",1820,Gr,44,0,3
+155,81,Six Ways to Sunday,1831,Cz,32,1,4
+156,86,Funny People,1866,Am,16,1,3
+157,60,Alvin and the Chipmunks: Chipwrecked,1903,Sp,44,0,3
+158,40,Look Both Ways,2017,Mo,49,1,4
+159,74,Willy Wonka & the Chocolate Factory,1867,Ga,17,1,2
+160,15,"Rink, The",1885,Po,20,0,2
+161,9,Black Tights (1-2-3-4 ou Les Collants noirs),1826,Da,16,0,1
+162,14,Dark Shadows,1941,Th,24,0,4
+163,74,Husk,1874,Ga,37,0,1
+164,8,Seven Brides for Seven Brothers,1869,Ma,12,1,2
+165,61,Chu Chin Chow,1930,Pa,30,0,2
+166,33,Gunga Din,1837,Ma,35,1,4
+167,49,"Friends of Eddie Coyle, The",1840,Hu,24,0,2
+168,56,Aqua Teen Hunger Force Colon Movie Film for Theaters,1892,In,47,1,1
+169,2,"I, Cesar (Moi César, 10 ans 1/2, 1m39)",1881,Te,36,0,1
+170,89,Enon opetukset,1995,Mo,22,1,1
+171,30,"Magic Christmas Tree, The",1874,Am,19,1,3
+172,100,Category 7: The End of the World,1940,La,47,1,1
+173,100,Roman Polanski: Wanted and Desired,1826,En,21,1,3
+174,88,Night of Dark Shadows,1965,Bo,16,0,4
+175,49,Tumbleweeds,1886,Mā,38,1,2
+176,91,"Invisible Circus, The",1949,As,46,1,4
+177,9,"Mouse on the Moon, The",1835,Ne,19,0,2
+178,29,Stalag Luft,1840,Fi,36,1,4
+179,34,Hatfields & McCoys,1960,Ca,45,0,1
+180,25,Back to the USSR - takaisin Ryssiin,1942,Pu,40,1,3
+181,19,"Farewell, The (Abschied - Brechts letzter Sommer)",1809,Ka,20,0,3
+182,25,Fabled,1836,Mo,26,0,3
+183,35,One Nite In Mongkok (Wong gok hak yau),1873,Qu,25,0,2
+184,94,Return with Honor,1944,Ky,46,1,1
+185,88,Comic Book Confidential,1977,Fi,16,0,1
+186,96,Wrestling Ernest Hemingway,1917,Ja,34,0,2
+187,65,"Aristocrats, The",1809,Ca,41,1,4
+188,34,"Keys to the House, The (Chiavi di casa, Le)",1874,Mo,46,0,2
+189,87,Bad Blood (Mauvais sang),1910,Ne,23,1,4
+190,35,The Boys,1895,So,37,1,3
+191,9,Even Angels Eat Beans,1950,Fi,33,0,4
+192,17,"Borrower, The",1854,Gu,32,1,4
+193,56,Xala,1879,Fi,36,0,4
+194,48,Games,1827,Ma,21,0,3
+195,28,The Affairs of Martha,1938,In,28,1,1
+196,46,Rosencrantz and Guildenstern Are Undead,1988,Ic,19,1,2
+197,16,Turtles Can Fly (Lakposhtha hâm parvaz mikonand),1989,Sw,18,0,4
+198,49,We Don't Live Here Anymore,1912,Lu,28,0,3
+199,25,"South Park: Bigger, Longer and Uncut",1824,Po,12,0,4
+200,45,"Topo, El",1900,Ko,41,0,2
+201,97,Summer of '62 (Cartouches gauloises),1833,Fi,30,0,2
+202,85,Dana Carvey: Squatting Monkeys Tell No Lies,1817,He,42,0,1
+203,21,"Brave, The",1948,Ar,14,0,4
+204,38,"Killing Fields, The",1942,Ma,37,0,4
+205,46,"Beast with Five Fingers, The",1824,Qu,25,0,3
+206,15,"Harmonists, The",1903,Ar,46,1,4
+207,91,Oblivion Island: Haruka and the Magic Mirror (Hottarake no shima - Haruka to maho no kagami),1967,Te,45,0,4
+208,19,Dark Dungeons,1820,Cz,46,1,2
+209,9,"Quick and the Dead, The",2003,Qu,12,0,2
+210,100,Cat Soup (Nekojiru-so),1817,Ma,13,1,2
+211,71,Lovers of Hate,1853,So,23,1,1
+212,59,For Heaven's Sake,1951,Af,22,1,3
+213,70,Taboo (Gohatto),1940,Ma,36,1,1
+214,39,Jerusalem,1866,Hi,28,1,4
+215,3,"Bubble, The (Ha-Buah)",1998,Ma,50,1,2
+216,76,It's in the Water,2013,Ar,49,0,1
+217,51,Rage,1893,Ma,24,0,3
+218,65,"Prowler, The (a.k.a. Rosemary's Killer) (a.k.a. The Graduation)",1971,Th,38,1,2
+219,16,Made in America,1825,Fi,31,1,4
+220,33,Feast of Love,1865,Hi,40,0,4
+221,95,Jar City (Mýrin),1995,Ch,14,1,3
+222,37,Poor Us: An Animated History of Poverty,2007,Ma,39,0,3
+223,46,Tortured,1866,He,32,1,3
+224,66,Whipped,1863,Ma,17,1,4
+225,87,Digging to China,1986,Ka,27,1,3
+226,46,Biggles,1890,Cr,43,0,1
+227,38,Mysterious Origins of Man,1877,Te,28,0,4
+228,94,"Thousand Clouds of Peace, A (Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor)",1804,Al,23,0,3
+229,87,Haute Cuisine,1817,Fi,25,1,3
+230,80,Snake Eyes,1805,Am,37,0,3
+231,20,Sound of Redemption: The Frank Morgan Story,1979,La,46,1,3
+232,60,Prison Break: The Final Break,1810,Ta,39,0,2
+233,18,Kiss Me Goodbye,1884,Qu,39,0,2
+234,91,Hellzapoppin',1883,Bi,15,1,3
+235,10,"Road Warrior, The (Mad Max 2)",1804,Ay,16,1,2
+236,58,Hansel & Gretel,1978,La,28,0,3
+237,88,"Verdict, The",1984,La,25,1,1
+238,71,Rules of Engagement,1947,Hi,14,1,4
+239,95,Satanas,1934,La,15,1,4
+240,88,"Amor brujo, El (Love Bewitched, A)",2018,So,17,1,4
+241,4,Georgia,1897,Ay,46,0,4
+242,32,"Concert for George, The",2016,Ka,19,1,2
+243,36,Blind Shaft (Mang jing),1928,Ko,47,1,4
+244,24,Baby's Day Out,1855,Sp,17,1,1
+245,5,Conspirators of Pleasure (Spiklenci slasti),1928,Mā,47,1,1
+246,100,They Died with Their Boots On,1825,Bi,22,1,1
+247,68,I'm Here,1931,Pu,13,1,3
+248,16,Michael Collins,1897,So,38,1,4
+249,17,Stay Cool,1993,So,37,1,4
+250,17,Whiplash,1824,In,17,0,2
+251,13,Young Winston,1869,Da,43,0,3
+252,56,Sittin' on a Backyard Fence,1910,Hi,20,1,3
+253,99,Gator,1993,Ar,49,0,4
+254,62,Breach,1973,Gu,43,1,2
+255,37,"Baron of Arizona, The",1810,Am,35,1,2
+256,58,Karan Arjun,1958,Ky,31,0,3
+257,88,Deadline at Dawn,1969,Hi,35,0,4
+258,20,Enough,1814,Ha,39,0,1
+259,63,Ringu (Ring),1924,Zu,35,0,1
+260,15,Daleks' Invasion Earth: 2150 A.D.,1841,Sp,20,1,3
+261,28,Breaking News (Daai si gin),1836,Du,32,1,4
+262,48,"Life of Emile Zola, The",1828,Li,26,1,4
+263,9,Before the Rains,1996,Pe,49,0,3
+264,16,Akira Kurosawa's Dreams (Dreams),1827,Ma,32,1,3
+265,70,Keep the River on Your Right: A Modern Cannibal Tale,1890,Cz,23,1,4
+266,24,Beware the Moon: Remembering 'An American Werewolf in London',1864,Nd,16,0,4
+267,57,Torpedo Bombers (Torpedonostsy),1940,Bo,27,1,3
+268,37,2012: Supernova,1886,Ka,27,0,2
+269,4,Eden Lake,1820,Be,21,1,2
+270,54,Motorama,1941,Li,18,1,1
+271,45,Twogether,1867,Ma,15,0,1
+272,41,Angels and Insects,1921,Qu,43,1,2
+273,39,"South, The (Lomalla)",1844,Az,20,0,4
+274,88,The French Kissers,1909,Mā,45,1,4
+275,96,"Boy Called Hate, A",1926,Mā,35,1,1
+276,38,Blue Vinyl,1918,Al,36,1,2
+277,4,The Last Five Years,1966,Sw,22,0,4
+278,44,IMAX: Coral Reef Adventure,1941,Yi,20,0,1
+279,54,Stir Crazy,1958,Sw,45,0,3
+280,99,Help! I'm A Fish,1885,Ga,50,1,2
+281,57,Attila,1921,Ge,12,1,3
+282,78,Spetters,1807,Ka,18,1,2
+283,51,Leave It to Beaver,1866,Te,43,0,4
+284,68,Mirage,1803,Ch,25,0,3
+285,55,Team America: World Police,1938,Ne,37,0,4
+286,15,Cabeza de Vaca,1852,Fi,25,1,2
+287,78,Cat People,1811,Ay,38,0,4
+288,19,"Big Time Operators (Smallest Show on Earth, The)",1909,Sw,28,1,2
+289,55,Next Day Air,1965,Ta,17,0,4
+290,56,Little Murders,1909,Ts,33,0,4
+291,49,Me and the Colonel ,1808,No,41,1,1
+292,72,Nine to Five (a.k.a. 9 to 5),1886,Ma,33,1,3
+293,15,The Sky Dragon,1933,Dz,25,1,3
+294,19,Munyurangabo,1966,Be,38,0,4
+295,88,Analyze That,1860,Be,12,0,3
+296,83,Not One Less (Yi ge dou bu neng shao),1950,En,25,1,1
+297,37,"Heroes of Telemark, The ",1940,Lu,47,0,3
+298,40,At the River I Stand,1938,It,15,1,2
+299,40,"Great Train Robbery, The (a.k.a. First Great Train Robbery, The)",2017,Ir,30,1,3
+300,68,Double Dragon,1926,Ts,38,1,1
